@@ -1,4 +1,4 @@
 export default function Login(){
-    const name = "diba"
+    const name = "dibam"
     console.log(name)
 }
