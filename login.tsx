@@ -1,4 +1,4 @@
-export default function Login(){
-    const name = "dibam"
-    console.log(name)
+export default function LoginForm() {
+  const name = "diba"
+  console.log(name)
 }
